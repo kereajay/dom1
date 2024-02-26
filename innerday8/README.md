@@ -2,7 +2,7 @@
 Welcome to our new exiting project named Dom1 this project is going to consist of Dom manipulation.
 
 ## Project Link:
-[DOM!](https://www.example.com)
+[DOM1](https://kereajay.github.io/dom1/)
 
 ## Tags used:
 - h1
